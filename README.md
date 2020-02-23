@@ -2,7 +2,9 @@
 
 ## About
 
-A MERN (Mongo, Express, React & Node) application for a social media platform for web and app developers
+A MERN (Mongo, Express, React & Node) application for a social media platform for web and app developers.
+
+Developer profiles are loaded from Gravatar(if any) and public repos are visible through GitHub API.
 
 ## Technology Stack
 
