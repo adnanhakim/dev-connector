@@ -25,10 +25,10 @@ To download all necessary modules
 npm install
 ```
 
-To build and run the project
+To both frontend and backend concurrently
 
 ```javascript
-npm run build
+npm run dev
 ```
 
 ## MIT LICENSE
